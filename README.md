@@ -1,0 +1,1 @@
+# azure-managed-redis-python-lab
