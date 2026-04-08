@@ -1,0 +1,14 @@
+[
+  {
+    "id": 123,
+    "name": "Mouse Gamer",
+    "price": 219.9,
+    "stock": 38
+  },
+  {
+    "id": 456,
+    "name": "Teclado Mecanico",
+    "price": 349.9,
+    "stock": 17
+  }
+]
